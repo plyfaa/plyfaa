@@ -1,4 +1,4 @@
-# 👁️o👁️ About Me:
+# 👁️👁️ About Me:
 I build web applications that combine full-stack development with computer vision and real-time motion tracking (i.e., eye and head movements) through webcam. Currently, I am designing products in Figma, deploying with Next.js, Node.js, Tailwind CSS, and Vercel, and am using free and open APIs where possible. I also work with Python and MATLAB for scientific data analysis and visualization, and have experience running computational workflows on high-performance computing (HPC) systems using Slurm.
 
 I’m always curious about new ideas and collaborations. Reach out if you’re building something interesting!
